@@ -1,0 +1,41 @@
+Haikyuu!!: To the Top
+Toaru Kagaku no Railgun T
+Plunderer
+UnicodeEncodeError: UNABLE TO DECODE NAME
+Isekai Quartet 2nd Season
+Kyokou Suiri
+Nekopara
+Darwin's Game
+Pet
+Somali to Mori no Kamisama
+Dorohedoro
+Rikei ga Koi ni Ochita no de Shoumei shitemita.
+UnicodeEncodeError: UNABLE TO DECODE NAME
+Jibaku Shounen Hanako-kun
+Infinite Dendrogram
+Ishuzoku Reviewers
+ID:Invaded
+Majutsushi Orphen Hagure Tabi
+Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.
+Kuutei Dragons
+Eizouken ni wa Te wo Dasu na!
+Koisuru Asteroid
+Boku no Tonari ni Ankoku Hakaishin ga Imasu.
+Runway de Waratte
+BanG Dream! 3rd Season
+Overflow
+UnicodeEncodeError: UNABLE TO DECODE NAME
+Housekishou Richard-shi no Nazo Kantei
+Natsunagu!
+22/7
+Oshi ga Budoukan Ittekuretara Shinu
+number24
+Murenase! Seton Gakuen
+Yatogame-chan Kansatsu Nikki 2nd Season
+A3! Season Spring & Summer
+Uchi Tama?! Uchi no Tama Shirimasen ka?
+Show By Rock!! Mashumairesh!!
+Oda Cinnamon Nobunaga
+ARP Backstage Pass
+Rebirth
+UnicodeEncodeError: UNABLE TO DECODE NAME
