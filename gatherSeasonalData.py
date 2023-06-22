@@ -29,8 +29,8 @@ class AnimeDataGatherer:
         if self.options.silent:
             self.driver_options.add_argument('--headless')
         # self.driver = webdriver.Chrome(options=self.driver_options)
-        self.driver = webdriver.Chrome()
-        # self.driver = webdriver.Edge()
+        # self.driver = webdriver.Chrome()
+        self.driver = webdriver.Edge()
         self.driver.set_page_load_timeout(self.options.timeout)
         
     def get_season_page(self):
