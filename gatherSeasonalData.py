@@ -1,4 +1,5 @@
 from selenium import webdriver
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
 import xlsxwriter
 import time
 import os
@@ -30,7 +31,7 @@ class AnimeDataGatherer:
             self.driver_options.add_argument('--headless')
         # self.driver = webdriver.Chrome(options=self.driver_options)
         # self.driver = webdriver.Chrome()
-        self.driver = webdriver.Edge()
+        self.driver = webdriver.Edge(EdgeChromiumDriverManager().install())
         self.driver.set_page_load_timeout(self.options.timeout)
         
     def get_season_page(self):
