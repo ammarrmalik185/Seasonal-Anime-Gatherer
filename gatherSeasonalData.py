@@ -125,7 +125,9 @@ class AnimeDataGatherer:
         workbook.close()
     
 
-Gatherer = AnimeDataGatherer(option=Options())
+options = Options()
+# options.season = "2024/fall"
+Gatherer = AnimeDataGatherer(options)
 Gatherer.get_season_page()
 Gatherer.set_sort()
 Gatherer.gather_data()
